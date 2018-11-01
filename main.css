@@ -1,0 +1,11 @@
+body{
+    background-color: gainsboro;
+    border-block-end-style: initial;
+    border-style: solid;
+    border-color: azure;
+
+}
+
+p, h1, h2, h3,{
+    font-family: 'Trebuchet MS'
+}
